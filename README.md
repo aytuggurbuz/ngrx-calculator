@@ -1,9 +1,7 @@
 # ngrx-calculator
-ngrx tabanlı hesap makinesi uygulaması
+ngrx based calculator
 
-Reducer, action'lar, effect'ler src/app/calc klasöründe
-
-Klonladıktan sonra çalıştırmak için
+# To run:
 
 npm install
 
